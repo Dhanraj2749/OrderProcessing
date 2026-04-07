@@ -1,0 +1,12 @@
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\bin\Debug\net8.0\EventBus.deps.json
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\bin\Debug\net8.0\EventBus.dll
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\bin\Debug\net8.0\EventBus.pdb
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\EventBus.csproj.AssemblyReference.cache
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfoInputs.cache
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfo.cs
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\EventBus.dll
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\refint\EventBus.dll
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\EventBus.pdb
+C:\Users\dhana\dhann\OrderProcessing_fixed\OrderProcessing\shared\EventBus\obj\Debug\net8.0\ref\EventBus.dll
